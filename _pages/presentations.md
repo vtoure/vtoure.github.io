@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /presentations/
+permalink: /talks/
 title: Presentations
 description: A list of invited talks, conference presentations, webinars and workshops/tutorials delivered (page in construction).
 nav: true
