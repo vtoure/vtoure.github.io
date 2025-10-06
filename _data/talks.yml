@@ -24,7 +24,7 @@
 
 - year: 2024
   title: "SPHN strategy to unravel the semantic drift between versions of standard terminologies"
-  event:  "SWAT4HCLS 2024"
+  event: "SWAT4HCLS 2024"
   location: "Leiden - Netherlands"
   type: "Talk"
 
@@ -44,7 +44,7 @@
   title: "FAIR data: why and how?"
   event: "SIBLearn@Lunch"
   location: "Lausanne - Switzerland"
-  type: "Invited talk"  
+  type: "Invited talk"
 
 - year: 2022
   title: "FAIRification of health-related data in the Swiss Personalized Health Network"
