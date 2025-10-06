@@ -21,7 +21,7 @@ ninja.data = [{
           description: "A list of invited talks, conference presentations, webinars and workshops/tutorials delivered (page in construction).",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/presentations/";
+            window.location.href = "/talks/";
           },
         },{id: "nav-cv",
           title: "CV",
