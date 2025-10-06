@@ -1,0 +1,53 @@
+- year: 2025
+  title: "SPHN Connector: Convert real-world sensitive health data into de-identified and validated knowledge graph"
+  event: "Medical Informatics Europe"
+  location: "Glasgow - Scotland "
+  type: "Talk"
+
+- year: 2024
+  title: "SPHN data journey with knowledge graph Ontotext"
+  event: "Ontotext Knowledge Graph Forum"
+  location: "online"
+  type: "Invited talk"
+
+- year: 2024
+  title: "The Swiss Personalized Health Network: Towards FAIR health data with the SPHN Semantic Interoperability Framework"
+  event: "International Symposium on Integrative Bioinformatics"
+  location: "Zurich - Switzerland"
+  type: "Talk"
+
+- year: 2024
+  title: "The SPHN SHACLer: Automatic generation of SHACL rules based on the SPHN RDF Schema"
+  event: "Knowledge Graph Forum"
+  location: "Basel - Switzerland"
+  type: "Talk"
+
+- year: 2024
+  title: "SPHN strategy to unravel the semantic drift between versions of standard terminologies"
+  event:  "SWAT4HCLS 2024"
+  location: "Leiden - Netherlands"
+  type: "Talk"
+
+- year: 2023
+  title: "Data Provenance in the SPHN Dataset and RDF Schema"
+  event: "Provenance workshop II"
+  location: "Rostock - Germany"
+  type: "Talk"
+
+- year: 2023
+  title: "The SPHN Semantic Interoperability Framework: from clinical routine data to FAIR research data"
+  event: "BOSC 2023"
+  location: "Lyon - France"
+  type: "Talk"
+
+- year: 2023
+  title: "FAIR data: why and how?"
+  event: "SIBLearn@Lunch"
+  location: "Lausanne - Switzerland"
+  type: "Invited talk"  
+
+- year: 2022
+  title: "FAIRification of health-related data in the Swiss Personalized Health Network"
+  event: "MILA Seminar Series"
+  location: "online"
+  type: "Webinar"
