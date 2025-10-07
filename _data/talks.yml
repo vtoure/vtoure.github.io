@@ -1,60 +1,60 @@
 - year: 2025
   title: "SPHN Connector: Convert real-world sensitive health data into de-identified and validated knowledge graph"
-  event: "Medical Informatics Europe"
-  location: "Glasgow - Scotland "
+  event: "Medical Informatics Europe (19-21 May)"
+  location: "Glasgow - Scotland"
   type: "Talk"
 
 - year: 2024
   title: "SPHN data journey with knowledge graph Ontotext"
-  event: "Ontotext Knowledge Graph Forum"
+  event: "Ontotext Knowledge Graph Forum (22-23 Oct)"
   location: "online"
   type: "Invited talk"
 
 - year: 2024
   title: "The Swiss Personalized Health Network: Towards FAIR health data with the SPHN Semantic Interoperability Framework"
-  event: "International Symposium on Integrative Bioinformatics"
+  event: "International Symposium on Integrative Bioinformatics (12-13 Sep)"
   location: "Zurich - Switzerland"
   type: "Talk"
 
 - year: 2024
   title: "The SPHN SHACLer: Automatic generation of SHACL rules based on the SPHN RDF Schema"
-  event: "Knowledge Graph Forum"
+  event: "Knowledge Graph Forum (30 May)"
   location: "Basel - Switzerland"
   type: "Talk"
 
 - year: 2024
   title: "SPHN strategy to unravel the semantic drift between versions of standard terminologies"
-  event: "SWAT4HCLS 2024"
+  event: "SWAT4HCLS 2024 (26-29 Feb)"
   location: "Leiden - Netherlands"
   type: "Talk"
 
 - year: 2023
   title: "Data Provenance in the SPHN Dataset and RDF Schema"
-  event: "Provenance workshop II"
+  event: "Provenance workshop II (21-22 Aug)"
   location: "Rostock - Germany"
   type: "Talk"
 
 - year: 2023
   title: "The SPHN Semantic Interoperability Framework: from clinical routine data to FAIR research data"
-  event: "BOSC 2023"
+  event: "BOSC 2023 (24-25 Jul)"
   location: "Lyon - France"
   type: "Talk"
 
 - year: 2023
   title: "FAIR data: why and how?"
-  event: "SIBLearn@Lunch"
+  event: "SIBLearn@Lunch (22 May)"
   location: "Lausanne - Switzerland"
   type: "Invited talk"
 
 - year: 2022
   title: "FAIRification of health-related data in the Swiss Personalized Health Network"
-  event: "MILA Seminar Series"
+  event: "MILA Seminar Series (24 Jan)"
   location: "online"
   type: "Webinar"
 
 - year: 2021
   title: " Plans for RDF-ication of SPHN"
-  event: "SPHN Workshop"
+  event: "SPHN Workshop (12 Jan)"
   location: "Basel - Switzerland"
   type: "Talk"
 
@@ -66,43 +66,67 @@
 
 - year: 2020
   title: "Causal molecular interactions: PSI-MITAB2.8 support of MI2CAST"
-  event: "HUPO PSI Spring 2020"
+  event: "HUPO PSI Spring 2020 (23-26 Mar)"
   location: "online"
   type: "Talk"
 
 - year: 2019
   title: "MI2CAST guidelines: update on current status"
-  event: "GREEKC Workshop"
+  event: "GREEKC Workshop (05-06 Nov)"
+  location: "Sarajevo - Bosnia and Herzegovina"
+  type: "Talk"
+
+- year: 2019
+  title: "Relation Ontology vs Molecular Interactions: Mapping of regulation terms"
+  event: "GREEKC Workshop (05-06 Nov)"
   location: "Sarajevo - Bosnia and Herzegovina"
   type: "Talk"
 
 - year: 2019
   title: "Causal statement: Knowledge management and extraction"
   event: "Berkeley Bioinformatics Open-source Projects"
-  location: "Berkeley - United States"
+  location: "Berkeley - United States (28 Oct)"
   type: "Talk"
 
 - year: 2019
   title: "Knowledge management and data extraction of causal statements for logical modeling"
   event: "Computational Systems Biology of Cancer Single Cell Analysis - 2nd Edition - Institut Curie"
-  location: "Paris - France"
+  location: "Paris - France (23-28 Sep)"
   type: "Talk"
 
 - year: 2019
   title: "Causal statements in VSM, from use cases to generic templates"
-  event: "GREEKC Workshop"
+  event: "GREEKC Workshop (21-22 Feb)"
   location: "Málaga, Spain"
   type: "Talk"
 
 - year: 2019
   title: "MICAST guideline: Formalize the representation of causal statements and recording of necessary metadata"
-  event: "Biocuration 2019 - Developing the Gene Regulation Knowledge Commons"
+  event: "Biocuration 2019 - Developing the Gene Regulation Knowledge Commons (7-10 Apr)"
   location: "Cambridge - United Kingdom"
+  type: "Talk"
+
+- year: 2018
+  title: "MICAST, Minimum Information about a Causal Statement"
+  event: "COLOSYS (14 Aug)"
+  location: "Trondheim - Norway"
+  type: "Talk"
+
+- year: 2017
+  title: "Extraction and representation of causal statements: Creating a model building resource for Systems Biology"
+  event: "COMBINE 2017 (9-13 Oct)"
+  location: "Milan - Italy"
+  type: "Talk"
+
+- year: 2017
+  title: "Integration of Knowledge Management and Logical Modeling"
+  event: "COLOSYS (1-2 Jun)"
+  location: "Paris - France"
   type: "Talk"
 
 - year: 2017
   title: "Extraction and representation of causality statements"
-  event: "pre-COLOSYS meeting"
+  event: "pre-COLOSYS meeting (31 May)"
   location: "Paris - France"
   type: "Talk"
 
@@ -114,18 +138,30 @@
 
 - year: 2017
   title: "Representation of causality statements"
-  event: "PSI Sprint meeting 2017"
+  event: "PSI Spring meeting 2017 (24-26 Apr)"
   location: "Beijing - China"
   type: "Talk"
 
+- year: 2017
+  title: "MOST, exploring differences between versions of models in BioModels and in the Physiome Model Repository"
+  event: "EBI-Babraham Institute Visit (12 Jan)"
+  location: "Cambridge - United Kingdom"
+  type: "Invited talk"
+
 - year: 2016
-  title: "Designing informative maps using the SBGN standard"
-  event: "COMBINE 2016"
+  title: "Visualising differences in SBML models using SBGN and BiVeS"
+  event: "COMBINE 2016 (19-23 Sep)"
   location: "Newcastle upon Tyne - United Kingdom"
   type: "Talk"
 
 - year: 2016
   title: "Standardized visualization of differences between model versions"
-  event: "e:bio Status Seminar 2016"
+  event: "e:bio Status Seminar 2016 (6 Sep)"
   location: "Munich - Germany"
+  type: "Talk"
+
+- year: 2015
+  title: " STON translator: SBGN to Neo4j graph database"
+  event: "COMBINE 2015 (12-16 Oct)"
+  location: "Salt Lake City - United States"
   type: "Talk"
