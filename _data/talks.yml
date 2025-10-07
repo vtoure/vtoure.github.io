@@ -51,3 +51,81 @@
   event: "MILA Seminar Series"
   location: "online"
   type: "Webinar"
+
+- year: 2021
+  title: " Plans for RDF-ication of SPHN"
+  event: "SPHN Workshop"
+  location: "Basel - Switzerland"
+  type: "Talk"
+
+- year: 2020
+  title: "Standardization process of causal statements: prior-knowledge for logical modeling"
+  event: "Course BI8040: Logical Modeling for Experimental Design in Biotechnology and Biomedicine"
+  location: "Trondheim - Norway"
+  type: "Lecture"
+
+- year: 2020
+  title: "Causal molecular interactions: PSI-MITAB2.8 support of MI2CAST"
+  event: "HUPO PSI Spring 2020"
+  location: "online"
+  type: "Talk"
+
+- year: 2019
+  title: "MI2CAST guidelines: update on current status"
+  event: "GREEKC Workshop"
+  location: "Sarajevo - Bosnia and Herzegovina"
+  type: "Talk"
+
+- year: 2019
+  title: "Causal statement: Knowledge management and extraction"
+  event: "Berkeley Bioinformatics Open-source Projects"
+  location: "Berkeley - United States"
+  type: "Talk"
+
+- year: 2019
+  title: "Knowledge management and data extraction of causal statements for logical modeling"
+  event: "Computational Systems Biology of Cancer Single Cell Analysis - 2nd Edition - Institut Curie"
+  location: "Paris - France"
+  type: "Talk"
+
+- year: 2019
+  title: "Causal statements in VSM, from use cases to generic templates"
+  event: "GREEKC Workshop"
+  location: "Málaga, Spain"
+  type: "Talk"
+
+- year: 2019
+  title: "MICAST guideline: Formalize the representation of causal statements and recording of necessary metadata"
+  event: "Biocuration 2019 - Developing the Gene Regulation Knowledge Commons"
+  location: "Cambridge - United Kingdom"
+  type: "Talk"
+
+- year: 2017
+  title: "Extraction and representation of causality statements"
+  event: "pre-COLOSYS meeting"
+  location: "Paris - France"
+  type: "Talk"
+
+- year: 2017
+  title: "Representation of causality statements"
+  event: ""
+  location: "European Bioinformatics Institute - United Kingdom"
+  type: "Talk"
+
+- year: 2017
+  title: "Representation of causality statements"
+  event: "PSI Sprint meeting 2017"
+  location: "Beijing - China"
+  type: "Talk"
+
+- year: 2016
+  title: "Designing informative maps using the SBGN standard"
+  event: "COMBINE 2016"
+  location: "Newcastle upon Tyne - United Kingdom"
+  type: "Talk"
+
+- year: 2016
+  title: "Standardized visualization of differences between model versions"
+  event: "e:bio Status Seminar 2016"
+  location: "Munich - Germany"
+  type: "Talk"
