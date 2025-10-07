@@ -52,12 +52,6 @@
   location: "online"
   type: "Webinar"
 
-- year: 2021
-  title: " Plans for RDF-ication of SPHN"
-  event: "SPHN Workshop (12 Jan)"
-  location: "Basel - Switzerland"
-  type: "Talk"
-
 - year: 2020
   title: "Standardization process of causal statements: prior-knowledge for logical modeling"
   event: "Course BI8040: Logical Modeling for Experimental Design in Biotechnology and Biomedicine"
@@ -95,15 +89,15 @@
   type: "Talk"
 
 - year: 2019
-  title: "Causal statements in VSM, from use cases to generic templates"
-  event: "GREEKC Workshop (21-22 Feb)"
-  location: "Málaga, Spain"
-  type: "Talk"
-
-- year: 2019
   title: "MICAST guideline: Formalize the representation of causal statements and recording of necessary metadata"
   event: "Biocuration 2019 - Developing the Gene Regulation Knowledge Commons (7-10 Apr)"
   location: "Cambridge - United Kingdom"
+  type: "Talk"
+
+- year: 2019
+  title: "Causal statements in VSM, from use cases to generic templates"
+  event: "GREEKC Workshop (21-22 Feb)"
+  location: "Málaga, Spain"
   type: "Talk"
 
 - year: 2018
